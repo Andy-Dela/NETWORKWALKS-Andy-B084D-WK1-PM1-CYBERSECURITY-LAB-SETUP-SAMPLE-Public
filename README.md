@@ -53,8 +53,8 @@ The MacBook is the host system. UTM provides the virtualisation layer, and Kali 
 | 🌐 Virtual Network | UTM custom private network |
 | 📡 Network Address | 10.0.0.0/24 |
 | 🐧 Kali IP Address | 10.0.0.2/24 |
-| 🚪 Default Gateway | 10.0.0.1 (configured example) |
-| 🌍 DNS Server | 8.8.8.8 (configured example) |
+| 🚪 Default Gateway | 10.0.0.1 |
+| 🌍 DNS Server | 8.8.8.8 |
 | 🔮 Future VM Range | 10.0.0.3 - 10.0.0.99 |
 
 ## 🪜 Lab Setup Procedure
