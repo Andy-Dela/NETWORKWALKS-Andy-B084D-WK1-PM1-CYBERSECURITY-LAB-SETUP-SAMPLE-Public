@@ -195,6 +195,7 @@ This lab is for education and authorised testing only. Keep target machines on t
 ## 👤 Project Author
 
 **Andy Dela Quarshie Wright**
+
 SOC Level 1 Analyst
 
 [LinkedIn](https://www.linkedin.com/in/andywright-security)
